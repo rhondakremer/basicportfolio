@@ -84,10 +84,16 @@ p {
 }
 
 #flamingo {
-    float: left;
-    height: 150px;
+    float: right;
+    height: 170px;
     width: auto;
-    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#barcaftn {
+    height: 150px;
+    float: left;
+    padding-right: 10px;
 }
 
 .photoandpara {
