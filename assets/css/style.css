@@ -152,15 +152,7 @@ input[type=submit] {
     position: relative;
 }
 
-#first2 {
-    display: flex;
-}
-
-#next2 {
-    display: flex;
-}
-
-#last {
+.twoPerRow {
     display: flex;
 }
 
